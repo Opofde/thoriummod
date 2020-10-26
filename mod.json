@@ -1,0 +1,7 @@
+name: thoriummod
+displayName: [pink]Thorium [gray]Mod
+author: opofde
+description: My first mod I published here, featuring new blocks, drones, enemys and bosses to fight with! Check out my other work at https://opofde.github.io
+version: "1.0alpha"
+minGameVersion: "100.3"
+dependencies: [ ]
